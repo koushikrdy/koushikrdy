@@ -1,5 +1,4 @@
-
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/developer-dev-programer-computer-gif-14235256030109244992">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/desenvolveu-espontaneamente-spontaneously-developed-spontaneous-robot-robo-gif-14324883">
 <h1 align="center">Hi 👋, I'm Koushik Reddy</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
