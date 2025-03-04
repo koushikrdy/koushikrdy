@@ -8,6 +8,7 @@
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **koushikrdyt@gmail.com**
+- https://tenor.com/view/developer-dev-programer-computer-gif-14235256030109244992
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
