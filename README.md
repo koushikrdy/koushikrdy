@@ -1,3 +1,5 @@
+
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/developer-dev-programer-computer-gif-14235256030109244992">
 <h1 align="center">Hi 👋, I'm Koushik Reddy</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -8,7 +10,7 @@
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **koushikrdyt@gmail.com**
-- https://tenor.com/view/developer-dev-programer-computer-gif-14235256030109244992
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
